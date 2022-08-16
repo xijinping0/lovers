@@ -1,5 +1,7 @@
 # 习近平与他的情人们
 
+[![Deploy](https://github.com/xijinping0/xjp-and-his-lovers/actions/workflows/deploy.yaml/badge.svg)](https://github.com/xijinping0/xjp-and-his-lovers/actions/workflows/deploy.yaml)
+
 作者：常博洋
 
 阅读：[链接](https://xijinping0.github.io/xjp-and-his-lovers/docs/toc)
