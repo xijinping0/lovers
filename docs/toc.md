@@ -1,8 +1,8 @@
-# 习近平与他的情人们
+---
+title: 目录
+---
 
-作者：常博洋
-
-## 目录
+# 目录
 
 - [前言](docs/ch00.md)
 - [第一章 相爱在清华](docs/ch01.md)
@@ -27,43 +27,3 @@
 - [第二十章 董娘子与宋娘子](docs/ch20.md)
 - [第二十一章 王储大战背后的神秘女人](docs/ch21.md)
 - [第二十二章 与薄熙来谈红粉知己](docs/ch22.md)
-
-## Development
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
