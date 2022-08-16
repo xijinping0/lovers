@@ -3,14 +3,13 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const isProd = process.env.NODE_ENV === 'production';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '习近平与他的情人们',
   tagline: '电子全本',
   url: 'https://xijinping0.github.io',
-  baseUrl: isProd ? '/lovers/' : '/',
+  baseUrl: '/lovers/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/xjp.jpg',
@@ -55,7 +54,6 @@ const config = {
         title: '习近平与他的情人们',
         logo: {
           href: '/docs/toc',
-          alt: 'My Site Logo',
           src: 'img/xjp.jpg',
         },
         items: [
