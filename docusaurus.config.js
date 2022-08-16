@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/xjp.jpg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -54,12 +54,12 @@ const config = {
         logo: {
           href: '/docs/toc',
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/xjp.jpg',
         },
         items: [
           {
             href: 'https://github.com/xijinping0/xjp-and-his-lovers',
-            label: 'GitHub',
+            label: '源代码',
             position: 'right',
           },
         ],
