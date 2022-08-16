@@ -81,7 +81,7 @@ const config = {
     {
       src: 'https://plausible.io/js/script.js',
       defer: true,
-      'data-domain': 'https://xijinping0.github.io',
+      'data-domain': 'xijinping0.github.io',
     }],
 };
 
