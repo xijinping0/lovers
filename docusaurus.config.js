@@ -10,7 +10,7 @@ const config = {
   title: '习近平与他的情人们',
   tagline: '电子全本',
   url: 'https://xijinping0.github.io',
-  baseUrl: isProd ? '/xjp-and-his-lovers/' : '/',
+  baseUrl: isProd ? '/lovers/' : '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/xjp.jpg',
@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'xijinping0', // Usually your GitHub org/user name.
-  projectName: 'xjp-and-his-lovers', // Usually your repo name.
+  projectName: 'lovers', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/xijinping0/xjp-and-his-lovers/tree/master/',
+            'https://github.com/xijinping0/lovers/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,7 +60,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/xijinping0/xjp-and-his-lovers',
+            href: 'https://github.com/xijinping0/lovers',
             label: '源代码',
             position: 'right',
           },
