@@ -9,7 +9,7 @@ const isProd = process.env.NODE_ENV === 'production';
 const config = {
   title: '习近平与他的情人们',
   tagline: '电子全本',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://xijinping0.github.io',
   baseUrl: isProd ? '/xjp-and-his-lovers/' : '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/xijinping0/xjp-and-his-lovers/tree/master/docs/',
+            'https://github.com/xijinping0/xjp-and-his-lovers/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
