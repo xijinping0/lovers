@@ -3,13 +3,14 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const isProd = process.env.NODE_ENV === 'production';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '习近平与他的情人们',
   tagline: '电子全本',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: isProd ? '/xjp-and-his-lovers/' : '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/xjp.jpg',
