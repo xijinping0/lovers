@@ -2,5 +2,6 @@ import React from 'react';
 import  { Redirect } from 'react-router-dom';
 
 export default function Home() {
-  return <Redirect to='/lovers/docs/toc' />;
+  console.log('baseUrl', baseUrl);
+  return <Redirect to={`${baseUrl}/docs/toc`} />;
 }
