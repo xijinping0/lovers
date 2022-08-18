@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '习近平与他的情人们',
   tagline: '电子全本',
-  url: 'https://xijinping0.github.io',
-  baseUrl: '/lovers/',
+  url: 'https://lovers.xijinping.one',
+  baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/xjp.jpg',
@@ -81,7 +81,7 @@ const config = {
     {
       src: 'https://plausible.io/js/script.js',
       defer: true,
-      'data-domain': 'xijinping0.github.io',
+      'data-domain': 'lovers.xijinping.one',
     }],
 };
 
