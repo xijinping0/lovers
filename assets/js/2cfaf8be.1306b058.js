@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxjp_and_his_lovers=self.webpackChunkxjp_and_his_lovers||[]).push([[454],{7667:(e,s,t)=>{t.r(s),t.d(s,{default:()=>a});var n=t(7294),r=t(6775);function a(){return n.createElement(r.l_,{to:"/docs/toc"})}}}]);
