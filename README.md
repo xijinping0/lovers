@@ -30,6 +30,9 @@
 - [第二十一章 王储大战背后的神秘女人](https://lovers.xijinping.one/docs/ch21)
 - [第二十二章 与薄熙来谈红粉知己](https://lovers.xijinping.one/docs/ch22)
 
+## 备用网站
+- https://xijinping.vercel.app
+
 ## 开发
 
 本项目使用 [Docusaurus](https://docusaurus.io/docs) 开发。
