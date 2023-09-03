@@ -59,7 +59,18 @@ const config = {
           {
             href: 'https://github.com/xijinping0/lovers',
             label: '源代码',
+            position: 'left',
+          },
+          {
+            type: 'dropdown',
+            label: '其他图书',
             position: 'right',
+            items: [
+              {
+                href: 'https://roulette.xijinping.one',
+                label: '红色赌盘',
+              }
+            ]
           },
         ],
       },
