@@ -16,21 +16,21 @@
     "lint-md": "yarn markdownlint --config .github/linters/.markdown-lint.yml **/*.md ./*.md"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.1",
-    "@docusaurus/preset-classic": "2.0.1",
-    "@easyops-cn/docusaurus-search-local": "^0.31.0",
-    "@mdx-js/react": "^1.6.22",
-    "clsx": "^1.2.1",
-    "prism-react-renderer": "^1.3.5",
-    "react": "^17.0.2",
+    "@docusaurus/core": "^3.3.2",
+    "@docusaurus/preset-classic": "^3.3.2",
+    "@easyops-cn/docusaurus-search-local": "^0.40.1",
+    "@mdx-js/react": "^3.0.1",
+    "clsx": "^2.1.1",
+    "prism-react-renderer": "^2.3.1",
+    "react": "^18.3.1",
     "react-cusdis": "^2.1.3",
-    "react-dom": "^17.0.2"
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.0.1",
-    "@tsconfig/docusaurus": "^1.0.5",
-    "markdownlint-cli": "^0.32.1",
-    "typescript": "^4.7.4"
+    "@docusaurus/module-type-aliases": "^3.3.2",
+    "@docusaurus/tsconfig": "^3.3.2",
+    "markdownlint-cli": "^0.40.0",
+    "typescript": "^5.4.5"
   },
   "browserslist": {
     "production": [
@@ -45,7 +45,7 @@
     ]
   },
   "engines": {
-    "node": ">=16.14"
+    "node": ">=18.0"
   },
   "license": "MIT"
 }
