@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxjp_and_his_lovers=self.webpackChunkxjp_and_his_lovers||[]).push([[155],{524:(s,e,r)=>{r.r(e),r.d(e,{default:()=>u});r(6540);var n=r(6347),t=r(4848);function u(){return(0,t.jsx)(n.rd,{to:"/docs/toc"})}}}]);
