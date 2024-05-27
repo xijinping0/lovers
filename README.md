@@ -2,6 +2,12 @@
 
 [![Deploy](https://github.com/xijinping0/lovers/actions/workflows/deploy.yaml/badge.svg)](https://github.com/xijinping0/lovers/actions/workflows/deploy.yaml) [![Lint](https://github.com/xijinping0/lovers/actions/workflows/lint.yaml/badge.svg)](https://github.com/xijinping0/lovers/actions/workflows/lint.yaml)
 
+> [!NOTE]
+> 本 repo 已经合并到禁书合集 [xijinping0/books](https://github.com/xijinping0/books)。原有网址保留不变，为了更好的阅读体验，请前往新地址阅读：
+>
+> - 原网址：https://lovers.xijinping.one
+> - 新网址：https://books.xijinping.one/lovers
+
 作者：常博洋
 
 ## 目录
